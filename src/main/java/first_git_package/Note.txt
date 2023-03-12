@@ -4,12 +4,13 @@
    *go to github
    *Repositories>Create a New Repository>first_git_project
 3.Create a new Commit for the First time
-   *git init
-   *git add .
-   *git commit -m "first_commit"
-   *git remote add origin https://github.com/zehramelal/first_git_project.git
-   *git push -u origin main
+   ONLY ONCE *git init
+   EVERY TIME *git add .
+   EVERY TIME *git commit -m "first_commit"
+   ONLY ONCE *git remote add origin https://github.com/zehramelal/first_git_project.git
+   ONLY ONCE *git push -u origin main
    ****Then your code should be pushed to github. REFRESH YOUR PAGE TO SEE THE CODE
+
 
 
 

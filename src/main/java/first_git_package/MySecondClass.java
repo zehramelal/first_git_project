@@ -6,5 +6,6 @@ public class MySecondClass {
 
 
         System.out.println("This is my second class");
+        System.out.println("UPDATING EXISTING CODE");
     }
 }
